@@ -1,2 +1,1 @@
-My first Repo
-Assignment 4
+{'svm': [{'accuracy_score': 0.9832402234636871, 'macro_f1': 0.9852667881320667}, {'accuracy_score': 0.9888268156424581, 'macro_f1': 0.9902353942144071}, {'accuracy_score': 0.9888268156424581, 'macro_f1': 0.9898286068030506}, {'accuracy_score': 0.9888268156424581, 'macro_f1': 0.9888490214352282}, {'accuracy_score': 0.9888268156424581, 'macro_f1': 0.9866933617284248}], 'decision_tree': [{'accuracy_score': 0.8547486033519553, 'macro_f1': 0.849942209100865}, {'accuracy_score': 0.8659217877094972, 'macro_f1': 0.8689199609527751}, {'accuracy_score': 0.888268156424581, 'macro_f1': 0.8833163129759102}, {'accuracy_score': 0.8379888268156425, 'macro_f1': 0.8255709113413353}, {'accuracy_score': 0.8715083798882681, 'macro_f1': 0.8650527540114655}]}
